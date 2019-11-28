@@ -1,2 +1,2 @@
-python exercise16.py test_merge.txt
+python exercise20.py exercise18.py
 pause
