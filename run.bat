@@ -1,2 +1,2 @@
-python exercise20.py exercise18.py
+python lu_decomposition.py
 pause
